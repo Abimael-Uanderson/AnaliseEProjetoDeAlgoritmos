@@ -1,0 +1,49 @@
+a)
+Total: n + 2
+
+b)
+Total: n + 4
+
+c)
+Total: n² + 3
+
+d)
+Total: 2n + 3
+
+e)
+Total: n² + 2n + 2
+
+f)
+Total: (n + 1)(m + 1) + 1
+
+g)
+Total: n² + 2n + 2
+
+h)
+Total: n² + 2n + 2
+
+i)
+Melhor caso (menor > 0): n² + 2n + 2
+Pior caso (menor < 0): n² + 3n + 4
+
+j)
+Melhor caso (menor = 0): n² + 2n + 3
+Pior caso (menor > 0): 2n² + 2n + 5
+
+
+2)
+a)
+Melhor caso (primeiro elemento do array = objetivo): 3
+Pior caso (último elemento ou não encontrado): n² + 2n + 2 ou n² + 2n + 1
+
+b)
+Melhor caso: 6
+Pior caso: n² + 2n + 5
+
+c)
+Melhor caso: 7
+Pior caso: n² + 2n + 5
+
+d)
+Melhor caso: 12
+Pior caso: 3(n² + 2n) + 6
